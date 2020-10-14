@@ -1,0 +1,13 @@
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\bin\Debug\netcoreapp3.1\sort-text.exe
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\bin\Debug\netcoreapp3.1\sort-text.deps.json
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\bin\Debug\netcoreapp3.1\sort-text.runtimeconfig.json
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\bin\Debug\netcoreapp3.1\sort-text.runtimeconfig.dev.json
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\bin\Debug\netcoreapp3.1\sort-text.dll
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\bin\Debug\netcoreapp3.1\sort-text.pdb
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\obj\Debug\netcoreapp3.1\sort-text.csprojAssemblyReference.cache
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\obj\Debug\netcoreapp3.1\sort-text.AssemblyInfoInputs.cache
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\obj\Debug\netcoreapp3.1\sort-text.AssemblyInfo.cs
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\obj\Debug\netcoreapp3.1\sort-text.csproj.CoreCompileInputs.cache
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\obj\Debug\netcoreapp3.1\sort-text.dll
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\obj\Debug\netcoreapp3.1\sort-text.pdb
+C:\_repos\personal\interview-qs\sort-text\sort-text\sort-text\obj\Debug\netcoreapp3.1\sort-text.genruntimeconfig.cache
